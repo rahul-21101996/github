@@ -1,2 +1,4 @@
 this is the first program of git 
 trying to modify
+git config
+git practical is going on
